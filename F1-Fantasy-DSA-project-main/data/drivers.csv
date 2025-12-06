@@ -1,0 +1,11 @@
+code,name,team,points,price,avgFinishes,wins,podiums
+HAM,Lewis Hamilton,Mercedes,0,25.5,5,2,10
+VER,Max Verstappen,Red Bull,0,27.0,4,3,12
+LEC,Charles Leclerc,Ferrari,0,24.0,6,1,8
+SAI,Carlos Sainz,Ferrari,0,22.5,7,0,5
+RUS,George Russell,Mercedes,0,23.0,8,0,6
+NOR,Lando Norris,McLaren,0,20.0,9,0,3
+PER,Sergio Perez,Red Bull,0,22.0,7,0,5
+TSU,Yuki Tsunoda,AlphaTauri,0,15.0,10,0,1
+OCO,Esteban Ocon,Alpine,0,16.5,9,0,2
+BOT,Valtteri Bottas,Alfa Romeo,0,14.0,11,0,0
