@@ -335,7 +335,7 @@ This project is created for educational purposes as part of a DSA course.
 
 ## 📞 Contact & Support
 
-- Email: fa24-bse-014@cuilahore.edu.pk | fa24-bse-020@cuilahore.edu.pk | fa24-bse-138@cuilahore.edu.pk
+- Email: fa24-bse-014@cuilahore.edu.pk | fa24-bse-020@cuilahore.edu.pk | fa24-bse-107@cuilahore.edu.pk
 - 
 - GitHub: github.com/ahmadbilal99
 - Issues: github.com/ahmadbilal99/F1-Fantasy-DSA/issues
